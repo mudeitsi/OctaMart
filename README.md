@@ -1,5 +1,5 @@
 # OctaMart
-An E-Commerce Website (Amazon Clone)
+An E-Commerce Website (octamart Clone)
 
 ## Project Overview
 OctaMart is an innovative e-commerce web application offering a streamlined and user-friendly shopping experience. The primary goal of this project is to create a platform that simplifies the online shopping process, making it more accessible and enjoyable for users. OctaMart aims to bridge the gap between complex e-commerce functionalities and user convenience by focusing on usability and performance.
