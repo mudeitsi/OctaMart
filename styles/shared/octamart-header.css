@@ -1,6 +1,6 @@
 .octamart-header {
-  background-color: rgb(19, 25, 33);
-  color: white;
+  background-color: rgb(123, 138, 153);
+  color: rgb(250, 250, 250);
   padding-left: 15px;
   padding-right: 15px;
 
@@ -35,7 +35,7 @@
 }
 
 .header-link:hover {
-  border: 1px solid white;
+  border: 1px solid rgb(250, 250, 250);
 }
 
 .octamart-logo {
@@ -81,7 +81,7 @@
 }
 
 .search-button {
-  background-color: rgb(254, 189, 105);
+  background-color: rgb(249, 183, 132);
   border: none;
   width: 45px;
   height: 40px;
@@ -136,7 +136,7 @@
 }
 
 .cart-quantity {
-  color: rgb(240, 136, 4);
+  color: rgb(163, 212, 226);
   font-size: 16px;
   font-weight: 700;
 
