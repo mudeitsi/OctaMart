@@ -22,6 +22,10 @@ OctaMart is an innovative e-commerce web application offering a streamlined and 
 - **Additional Tools:** Libraries and services that enhance the functionality and user experience of the application.
 
 ## Screenshots or Demo
+Prototype:
+https://www.figma.com/proto/g4pzVOWtMYwjjxfHeuesmr/OctaMart--eCommerce-Store?type=design&node-id=229-6308&t=e0U4XYJr3Y2Kz6HT-1&scaling=min-zoom&page-id=0%3A1&mode=design
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg4pzVOWtMYwjjxfHeuesmr%2FOctaMart--eCommerce-Store%3Ftype%3Ddesign%26node-id%3D229-6308%26t%3De0U4XYJr3Y2Kz6HT-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
 
 (screenshots and link to a live demo)
 
