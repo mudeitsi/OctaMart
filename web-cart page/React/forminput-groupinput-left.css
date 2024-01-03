@@ -1,0 +1,39 @@
+.background-icon {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .background-icon,
+  .icon0,
+  .text {
+    position: absolute;
+  }
+  .icon0 {
+    top: calc(50% - 12px);
+    right: 7px;
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+  }
+  .text {
+    width: calc(100% - 15px);
+    top: 11px;
+    left: 10px;
+    display: inline-block;
+  }
+  .forminput-groupinput-left {
+    width: 109px;
+    height: 40px;
+    text-align: left;
+    font-size: var(--text-base-size);
+    color: var(--gray-500);
+    font-family: var(--text-base);
+  }
+  
